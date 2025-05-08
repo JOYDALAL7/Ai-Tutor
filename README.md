@@ -2,20 +2,6 @@
 
 The open-source AI chat app for everyone.
 
-## Discussions
-
-We highly encourage you to participate in the "Discussions" tab above!
-
-Discussions are a great place to ask questions, share ideas, and get help.
-
-Odds are if you have a question, someone else has the same question.
-
-## Legacy Code
-
-Chatbot UI was recently updated to its 2.0 version.
-
-The code for 1.0 can be found on the `legacy` branch.
-
 ## Updating
 
 In your terminal at the root of your local Chatbot UI repository, run:
